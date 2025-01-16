@@ -14,4 +14,4 @@
 );
 
 # Then open VS code terminal then run then below command
- python app.py 
+ python app.py or flask run 
