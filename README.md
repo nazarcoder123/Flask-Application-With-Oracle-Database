@@ -1,5 +1,5 @@
 # To Run this repo
- git clone https://github.com/nazarcoder123/Flask-with-Oracle-DB.git
+ git clone https://github.com/nazarcoder123/Flask-Application-With-Oracle-Database.git
 
  create python env with python --version == 3.10.0
 
